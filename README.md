@@ -1,4 +1,4 @@
-<h1 align='center'> Hi I'm M.A.K
+<h1 align='center'> Hey I'm Mohamadamin
 
 <!--
 **Mohamadamin-Khoshkenar/Mohamadamin-Khoshkenar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
